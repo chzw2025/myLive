@@ -3,7 +3,7 @@ name: 🚀 Update PPVLand Playlist 📺
 on:
   schedule:
     - cron: '0 * * * *'  # ⏰ 每小时自动运行
-  workflow_dispatch:     # 允许手动点击运行
+  workflow_dispatch:      # 允许手动点击运行
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 1  # ⚡ 关键：只拉取最新提交，解决 2GB 下载慢的问题
+          fetch-depth: 1  # ⚡ 解决仓库过大的下载问题
 
       - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v4
@@ -26,12 +26,16 @@ jobs:
       - name: 📦 Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install playwright urllib3 aiohttp --no-cache-dir
+          # ✅ 核心修复：添加了 requests 库
+          pip install playwright requests urllib3 aiohttp --no-cache-dir
           playwright install firefox
           playwright install-deps
 
       - name: 🎯 Run PPV Scraper
-        run: python ppv.py  # 只运行目前正常的脚本
+        # 添加 PYTHONUNBUFFERED=1 确保你能实时看到运行日志
+        env:
+          PYTHONUNBUFFERED: 1
+        run: python ppv.py
 
       - name: 💾 Commit & Push Changes
         env:
@@ -40,14 +44,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # 确保 git 能看到新生成的文件
           git add PPVLand.m3u8
 
+          # 检查是否有变化
           if git diff --cached --quiet; then
-            echo "✅ No changes to playlist. Skipping commit."
+            echo "✅ 内容未变化，跳过提交。"
             exit 0
           fi
 
-          git commit -m "🔁 Auto-update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "🔁 自动更新节目单: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           
-          # 强制推送或简单推送，因为我们用了浅克隆(depth 1)
+          # 推送回仓库
           git push origin main
