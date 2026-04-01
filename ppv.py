@@ -23,8 +23,8 @@ async def get_streams():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0',
             'Accept': 'application/json, text/plain, */*',
-            'Origin': 'https://ppv.to',
-            'Referer': 'https://ppv.to/',
+            'Origin': 'https://api.ppv.to',
+            'Referer': 'https://api.ppv.to/',
             'Accept-Language': 'en-US,en;q=0.5'
         }
         async with aiohttp.ClientSession(timeout=timeout, headers=headers) as session:
