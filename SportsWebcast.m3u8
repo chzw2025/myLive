@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blues @ Kings" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Los-Angeles-Kings.svg" group-title="NHLWebcast - Live Games",Blues @ Kings
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/95.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canucks @ Avalanche" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Colorado-Avalanche.svg" group-title="NHLWebcast - Live Games",Canucks @ Avalanche
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/84.m3u8
+https://vr1.packcast.top/auth/84.m3u8?token=zdmRHfb9LmzZie1p3NJrFZNuq6SkwAzJED6tv4Bs4fDz4hAYp1yW1Zn-FW1Dwr44mYXrZuBo0cJlzjYtPOeBJQtvT4wpnShHT9idfn49vMyUiVLO1OLHVUgL-BxbWV6C--PhGJLAL7uQ3oQpqn172wU4tnDLi9VXU3ziAnZxFQ4KY_T-8WLq1xho8BSRj6Omaz2wjJEDcWiG2jyfG9_XntIRdBOQdL8-sJn4eGEhbjTPyQKzI_C9Qu1S1uRNO1bBLwK4IypkSheOzVZj5OTcY07MkK3cOySfQtb2uCKaVCe8AF6Oq8rY90gCgfyrlf6JjKOchhKU3qerLOF-CrQfZ6rxvkzRdqQ1Q9nCUn3Np85R6Q6a4Pdx7Yrq8zaewIhIWJEBqTPsqbVqXekmGgi5g90QuPel6n0VPlASLBP8u3k1_jYU891_v-2LKaAHRCeKDWRA6auJ1NC85gpmufIzaA0gJ3YodXM6n_TrtttlzbwyEX68NG3q1WDHYyNC7pNarhDRThvjzXcP_fHq2Adr6ZuBTJCZujE6sxmWNsAVexVD-FtpoJNSZSwRBQovzxCdHFXaUq_lusCIjdTsh5uU29g2JMbTeASxrG8_j2EJ6sw
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Sharks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/San-Jose-Sharks.svg" group-title="NHLWebcast - Live Games",Ducks @ Sharks
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/93.m3u8
+https://vr2.packcast.top/auth/103.m3u8?token=Y3xNTjSu4l5aQpu8KRIgunZLZ8J4SpMr6viO4m345GMwnXCtGSqidfcsHQvnFMXVNmaTVsaWFPWUS5sYN7zV07sH2BlQxqRv_NZWn_aCGw2_M-RGww9VNJttRidccFQFl1XBsmV_OXeOQPRfN0oGlnP4j-qKA46pRCpgdkQNIOFPBwvSTrEHpdH80Rx6JMKjEBbvi5zSeWUCNUU04gMtz98QdFhX2gKPukK55AmtLziryAdnJY-IKtLOsNrmncnk8GS2MGSx4ksW55jpBE92ecaVSrZ8YB5U7MQ1tZkajAD09E3x9LeUb98ElrduEOw_ojNmrhGfAWiZ17IF_7kITAFOyPGMDNWz-yFZUPyBhM8Ug04eHvfBuHxVdml-KxeXcUw-bEVL2owsmFzsF6WJB_lU4gRGGcSj5psXEjJngnxn-ZV2h-2ih0G2MndrFo3AQr0CFAglbkwOz-mRmYMFD3HTIO3WYx5oOpJLcZkD4CujXkra24_m6H7rhUo6IbDEHI3ha-rmk77hAvj21IsN63J9osQoaVgSN8vIiaO3IqNq7ibcGFFh-LFHkKDS6TcTWKC_jU3RSji7YHQxpyiIcLyCTVvzguBqOk57EMs4Q5g
