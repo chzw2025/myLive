@@ -1381,3 +1381,5 @@ https://bbb.exoadash.com/TVD2807/index.mpd
 https://bbb.exoadash.com/TVD2813/index.mpd
 #EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/AFN_Sports_2.png/revision/latest?cb=20230803110040",AFN Sports 2
 https://bbb.exoadash.com/TVD2811/index.mpd
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png",Discovery Familia
+http://200.115.120.1:8000/play/ca053
