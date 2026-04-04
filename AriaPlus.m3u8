@@ -1419,3 +1419,7 @@ http://103.176.90.186:80/live/f956994304/de7dd50f24/626906.ts
 http://103.176.90.186:80/live/f956994304/de7dd50f24/626889.ts
 #EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TLN.ca" tvg-logo="https://i.ibb.co/cKnhRZX6/TLN-2015.png",TLN
 http://103.176.90.186:80/live/f956994304/de7dd50f24/626886.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
+http://103.176.90.186:80/live/f956994304/de7dd50f24/627024.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crimes
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626927.ts
