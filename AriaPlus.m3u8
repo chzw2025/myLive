@@ -1383,3 +1383,39 @@ https://bbb.exoadash.com/TVD2813/index.mpd
 https://bbb.exoadash.com/TVD2811/index.mpd
 #EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png",Discovery Familia
 http://200.115.120.1:8000/play/ca053
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CHEK.Victoria.BC.ca" tvg-logo="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png",CHEK (CHEK-DT)
+http://103.176.90.186:80/live/f956994304/de7dd50f24/812561.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CityTV Montreal
+http://103.176.90.186:80/live/f956994304/de7dd50f24/627007.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CITY.Vancouver.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CityTV Vancouver
+http://103.176.90.186:80/live/f956994304/de7dd50f24/627005.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV.Life.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png",CTV Life
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626974.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png",CTV Nature
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626961.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png",CTV Speed
+http://103.176.90.186:80/live/f956994304/de7dd50f24/758234.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Edmonton_GuideLogo_240x144.png",Global Edmonton (CITV-DT)
+http://103.176.90.186:80/live/f956994304/de7dd50f24/709013.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Global.Halifax.(CIHF).ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png",Global Maritimes (CIHF-DT)
+http://103.176.90.186:80/live/f956994304/de7dd50f24/943895.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626932.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Home.Network.ca" tvg-logo="https://i.ibb.co/fGMcLQTP/Home-Network-logo-svg.png",Home Network
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626931.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png",History
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626930.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png",Much
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626919.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png",National Geographic
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626918.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png",National Geographic Wild
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626917.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="One.Soccer.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/one-soccer-ca.png",One Soccer
+http://103.176.90.186:80/live/f956994304/de7dd50f24/1151908.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="outtv.ca" tvg-logo="https://play-lh.googleusercontent.com/jsVXFQfgTUMbNvWmk3Ccy4eVFSysQMI0vTEiTzgbLddzIGnPfsFLJ6OK29BRwGYhaPw",OUTtv
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626906.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Super.Channel.Heart.and.Home.ca" tvg-logo="https://media.starlite.best/super.channel.heart.home.ca.png",Super Channel Heart & Home
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626889.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TLN.ca" tvg-logo="https://i.ibb.co/cKnhRZX6/TLN-2015.png",TLN
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626886.ts
