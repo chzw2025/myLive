@@ -1423,3 +1423,7 @@ http://103.176.90.186:80/live/f956994304/de7dd50f24/626886.ts
 http://103.176.90.186:80/live/f956994304/de7dd50f24/627024.ts
 #EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crimes
 http://103.176.90.186:80/live/f956994304/de7dd50f24/626927.ts
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC (WABC)
+http://72.90.150.217:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX (WNYW)
+http://72.90.150.217:8000/play/a075/index.m3u8
