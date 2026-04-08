@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Capitals @ Maple Leafs" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Toronto-Maple-Leafs.svg" group-title="NHLWebcast - Live Games",Capitals @ Maple Leafs
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/167.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Oilers @ Sharks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/San-Jose-Sharks.svg" group-title="NHLWebcast - Live Games",Oilers @ Sharks
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -13,4 +8,4 @@ https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/103.m3u8
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://vr1.packcast.top/auth/175.m3u8?token=7gI8LxauZGlNfWTu6sTWn3cPF1SZUU_KOuRQhMjk331xviEVqmcEOnTDZTGqgViMrsyCPrywouFHTH4Fnnfm81hLbnsksP7Aj6bqpOergtioWd5PrMjLpreNRQu5fgl81pbIHzeDvQP1NZmth-CdpFvOti5U9QHPNpOiHgENRGCh9_zmaKlnmprs-iGtQHIOcCwKxUvRzXL7gqCkU9LXMr5feq6r5ahOVAK29GMoThfE6Nikd-9WmpZZJWYDk5q5EWo513F6zZBvQH-pOiXbabItW_h_zwssoN9kcNA1rWKwXg2p_LZIJro_Na0FUMWtmRwbX2o7XiUpWoGHI68rR6kbvONbbglVuNvynCR1-Lezpbt7RBWVesyoFZ27zP09gmx44npIdG6-dikpA6wRhEbj1er1FPcPM4jTQ1z8oXc73IKNnquMePX3IDauGaX521Anc2vi5AeeHxAiOmJWDoStfwCcdSE67KTo0vib2oIlEsFTR32qjWIC2wNCce6o345Y-nOKuOY2MeBnTrP4RndN5e1_IlQIV8gFlHLgNlIIW2zmGwd1TCkk3vWlPOBwVPJsQml8n8Zl1siFcRFenKdcNp5tqkIC06X63Nf4NIM
+https://vr2.packcast.top/auth/175.m3u8?token=7gI8LxauZGlNfWTu6sTWn3cPF1SZUU_KOuRQhMjk331xviEVqmcEOnTDZTGqgViMrsyCPrywouFHTH4Fnnfm81hLbnsksP7Aj6bqpOergthyDz96aqagnlv1GWrZT_cwL-X6NgqHtuoBU62Dkm_OtXlIl-ECdX-RXFWLq7BmXNnes5fx4rg8XSimrkI6IHcYHOQCmYT42QW2GtGY_nXtocNSPwRbNho6yZgg16pbomGxa5lQ8ZcjOmvfb6goLQTRAeZRdgxhvsXBmZppQDvl4uQH_2qcZ54CdNHzgBcoOsEbLlLVkhalVjLMkXnoSZYfm6Q8OJ7DQ5sQByXq2SmeKxSNlr3-b7FFgej1AcY0vVhFmq1l0jCPWkI02TXhvKfJUW6tUHD_4fb1KaQLAyMit5rHKcO1sd0e5z9AkSYJves7qcdXbMTwRJhlfGEXoPcbQ3v0x1XSAhVR_YT5-UTOrxinVvKth_0XLloS7fktlCZ4CldF9VXSOqxtocPmBD51rwPu_hhv57oAy9zhAbQPky4kgji3cvPbFm5K6cNDcYRrhfRDdMGGU2uP1kQtu_73NW4x9MZAuPxNY337CFzZc50V6ZviFDocCzX4w8MmboU
