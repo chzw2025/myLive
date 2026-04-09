@@ -3,9 +3,14 @@
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=-jqZ7BGbBmf_q3hM4RcaHGYGoegzRISlQ9FxV4Up8h0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845%2F&expires=1775735510/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845/167.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=Ez-8Bf1TecEoMZ5rY5FFAfiLTTbyzOdM_uP4g7RMt2Q&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845%2F&expires=1775777092/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845/167.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Oilers @ Sharks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/San-Jose-Sharks.svg" group-title="NHLWebcast - Live Games",Oilers @ Sharks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=QNUzK4WzbleTEOPAwwfmGM0tCFE7FTwm9ibIDWmd3eE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGfDhVDA-nZk44I-shtei40%2F&expires=1775777094/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGfDhVDA-nZk44I-shtei40/103.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sabres @ Rangers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-York-Rangers.svg" group-title="NHLWebcast - Live Games",Sabres @ Rangers
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=cjMkNPDUcTLIkJq8Db9TB743ntWfGy5G6VK_ytm2Hus&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwuZWmyPa1CrRKhIeFNtjM%2F&expires=1775735507/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwuZWmyPa1CrRKhIeFNtjM/175.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=DGVNkWQYBWABlkgSKpEDazpLL0z7B-uAzr3MJBBvRgU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwuZWmyPa1CrRKhIeFNtjM%2F&expires=1775777089/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwuZWmyPa1CrRKhIeFNtjM/175.m3u8
