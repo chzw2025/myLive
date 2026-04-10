@@ -1465,3 +1465,11 @@ https://xemzi.short.gy/2000023
 https://xemzi.short.gy/2000024
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="AriaPlus - United Kingdom",TNT Sports Ultimate
 https://xemzi.short.gy/2000031
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png",TSN 1
+https://stream.decentdoubts.net/805/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN 2
+https://stream.decentdoubts.net/806/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN 4
+https://stream.decentdoubts.net/701/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
+https://stream.decentdoubts.net/809/index.m3u8
