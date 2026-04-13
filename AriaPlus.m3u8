@@ -1473,3 +1473,35 @@ https://stream.decentdoubts.net/806/index.m3u8
 https://stream.decentdoubts.net/701/index.m3u8
 #EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
 https://stream.decentdoubts.net/809/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
+http://161.129.178.5/aptn/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cmt-ca.png",CMT
+http://161.129.178.2/cmt/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Disney.Channel.ca" tvg-logo="https://64.media.tumblr.com/cdece8050f87cea787abc3008ec9ff5b/04293b9d5dd1dd70-70/s1280x1920/fcff268c0827de1e1a692a3b6590140c7ed273b1.png",Disney Channel
+http://161.129.178.2/disney/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/e-entertainment-ca.png",E!
+http://161.129.178.5/e/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png",Flavour Network
+http://161.129.178.5/food/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png",FX
+http://161.129.178.2/fx/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="FX.Networks.Canada.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDmgYNbbRG0zlcWe6UuCohIJKc8_KmVBPCHQ&s",FXX
+http://161.129.178.5/fxx/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="HGTV.CA.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Home_Network_logo.svg/250px-Home_Network_logo.svg.png",Home Network
+http://161.129.178.5/hgtv/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png",Much
+http://161.129.178.5/much/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png",National Geographic
+http://161.129.178.5/natgeo/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2020/08/NOOVO_BlancSurDegrade_RVB.jpg?auto=format&q=60&crop=faces%2C%20edges&ar=16%3A9&fit=crop&ixlib=react-9.8.1&w=1400",Noovo
+http://161.129.178.5/v/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="starz.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/STZ_1_BellMedia_bk_rgb_2022.png",Starz 1
+http://161.129.178.5/starz/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="starz.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/STZ_2_BellMedia_bk_rgb_2022.png",Starz 2
+http://161.129.178.5/starz2/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TFO.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TFO_2020_Logo.svg/1280px-TFO_2020_Logo.svg.png",TFO
+http://161.129.178.5/tfo/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Unis.TV.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/TV5_Unis_2026.png/revision/latest/scale-to-width-down/300?cb=20260329105858",TV5 Unis
+http://161.129.178.5/unis/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TV5.ca" tvg-logo="https://mma.prnewswire.com/media/2943641/TV5_Qu_bec_Canada_TV5_QU_BEC_CANADA_SE_R_INVENTE___UNE_VOIX_QUI.jpg",TV5
+http://161.129.178.5/tv5/playlist.m3u8
