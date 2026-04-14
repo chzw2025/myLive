@@ -1505,3 +1505,13 @@ http://161.129.178.5/tfo/playlist.m3u8
 http://161.129.178.5/unis/playlist.m3u8
 #EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TV5.ca" tvg-logo="https://mma.prnewswire.com/media/2943641/TV5_Qu_bec_Canada_TV5_QU_BEC_CANADA_SE_R_INVENTE___UNE_VOIX_QUI.jpg",TV5
 http://161.129.178.5/tv5/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png",BET Her
+http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/49221.ts
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png",Cleo TV
+http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105644.ts
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png",Hallmark Mystery
+http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/9182.ts
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png",Great American Family
+http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105641.ts
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/insp-us.png",INSP
+http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/69080.ts
