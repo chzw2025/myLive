@@ -1,41 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Avalanche @ Flames" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Calgary-Flames.svg" group-title="NHLWebcast - Live Games",Avalanche @ Flames
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=5SqD46fuK0s9xaCfqd5Otk4xY82VGidn3oL2-8uJM9w&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHjyqzVD3OO_O4bVu-oxuOW%2F&expires=1776247699/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHjyqzVD3OO_O4bVu-oxuOW/91.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Flyers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Philadelphia-Flyers.svg" group-title="NHLWebcast - Live Games",Canadiens @ Flyers
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=qgFJX5kJxpq64X1SE3ZXjE6O_opBWPzWhDg00RLdE64&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj%2F&expires=1776238062/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj/173.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=uSoOEtxe5ocluqp7lMZz7J6LLTOIGb8Uxz_5xGJj5pI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj%2F&expires=1776247692/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj/173.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Capitals @ Jackets" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Columbus-Blue-Jackets.svg" group-title="NHLWebcast - Live Games",Capitals @ Jackets
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://load2.castlb.top/auth/93.m3u8?token=qLRc1i93aBfyqXV1rk8s6nin1iRlw-6KzZzkfbf9WiwFPrAv0bkOcqIf1Z0iuk3OEkrMkLM1SmDn72sWbaUtbFqtsHxNa327O6TkJK9ZwqU1MjXpEL5103ChlgjaEGzGojwCX1pt9eGP_D2iY5fD4ZSOnJfLvh92tD0ISDzVnirhWct_Myk2A1ylLRHDPY9pn9hKbcdUskRTjhl01UyysZPeWVthO022yVdSqg96xwR6IqFlJZu2xDVgX5OKLoOfPv59jZpaBA8mYEOGxO13Yi_jOwfPiP-lQWYR6mAcSwZIyPAQG8-Kr5ToFTY94wxCojqAv5xuEaxaDbc9RgXoG6pqjwz7SrL8HliAuj1mkEp1TnTtx6I_dsJRMBuocw5EMfdmbUH5U9jqQzZv8skBQLe7jB44IX19ylptWoIm_M-8YFB-e16BlyVlwtvcdtkwLtsNbXXpzbyDWDj6y2thw2luVF4Sl9tPuWO98yx_pAKhppuerzZIkqjjEhkZukh3YfM9gcXTVsChhQ0LjdLmGGY2q_0XHRqKwzAZCj76WePDh4QQ85xKy1szlAov21uEmGWolVTLldGIrmZm62qTYL5xEdvO7p9qwPKliSua8K4eNNGXiEKvDiI4KudR9xq-
+https://webcast-origin.b-cdn.net/bcdn_token=_tEWriOpJRTJI23ky2g9HDHq2P8WT5ZCAwvYIgRIT7Y&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFAL6Lms4mamscktFmCci32%2F&expires=1776247684/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFAL6Lms4mamscktFmCci32/93.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Devils @ Bruins" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Boston-Bruins.svg" group-title="NHLWebcast - Live Games",Devils @ Bruins
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=I8ZIy8UctkHFN63NYbnjlI25Wh27iOg00sAiaEtYOM4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAFaA0fffd_iHiSyVq4cDw%2F&expires=1776238057/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAFaA0fffd_iHiSyVq4cDw/168.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=SjkKFq0hoUReR4YEXf3O0GQ2k7SwsK29QO56aqAbhmQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAFaA0fffd_iHiSyVq4cDw%2F&expires=1776247688/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAFaA0fffd_iHiSyVq4cDw/168.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Wild" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Minnesota-Wild.svg" group-title="NHLWebcast - Live Games",Ducks @ Wild
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://load1.castlb.top/auth/105.m3u8?token=TG5JURf_b2WiWnkV3aPjjMnVDtRrGl9bvMqz8_2aA3VBzVpupZbauC-D8VortQeoCxQPOzMKMhNh_TJKEB6W3WQTweIXgHT9oRxF_UWhF16wRuUmS5b_TYvWCdN1v2R1SI1YzSEXmQsZrw3jibZxSW2zOZc4xFNAbz_nggUmnxBZip3bO7wVcs1jJdLk2uB1-3w23rcy49l2idLgdV-qWahyRuRVcGNzbherMkhC8qVTcT7A85bzjFEYpt7bbczbtcxstUhCN4henoqC15ue9CZgR1CDra2I69hQi8Iz9gItUy9cFmMSlTaKK1DhfQ3uOi4MRyKE6QGTkxYw5zkD56rFTvoZWak3jZ__pS3t-7MA3W3Q9DeNEjQFtxE-rmSnTMJwOvNB97mBDo4IJ7DNN1P9NCaWgYEOQn3e2qQgdBERDb7GwRwlJDmkg5bl7P0Ix2MC8624PlgHqCT5VVfyeeLcH-4fUovH8EQZgJZNoquBUaTpohxFdUBpIDbtLQqbJlQ8vEH3eWCJOAotvWnVUQGSOwTX-boTdK7zjJTzVlQmng37H9j4wFxx7KRrA4a0Xy_NYn5s1J9QbrTTrhL60uI8kkDDRov9HyTATsaEb3nNqiPq-8Yp-kk-nuLjXlC_NaIEFXaMzYbaDLNKkcLPiQ
+https://webcast-origin.b-cdn.net/bcdn_token=Ac7l3bx_DFrDTUDN1aBScqURMxRwXQvUJ1pY1hoRLRE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe%2F&expires=1776247694/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe/105.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Hurricanes @ Islanders" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-York-Islanders.svg" group-title="NHLWebcast - Live Games",Hurricanes @ Islanders
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=t5YfllhQwUrSgcGF3HH5-tJzUP9_QOsD7ou3SNNN9Xk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEqPvdaSjtPk5U7WiH8Fp_p%2F&expires=1776238059/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEqPvdaSjtPk5U7WiH8Fp_p/172.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=YK_OezflATMtZ_UTAki2yF-VtOvaW8ntphgFY10vQh8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEqPvdaSjtPk5U7WiH8Fp_p%2F&expires=1776247690/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEqPvdaSjtPk5U7WiH8Fp_p/172.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Jets @ Utah" tvg-logo="https://slapstreams.com/wp-content/uploads/2024/09/Utah-Hockey-Club.svg" group-title="NHLWebcast - Live Games",Jets @ Utah
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://load1.castlb.top/auth/89.m3u8?token=6SEuWUM8XBMM3r1NRFT4Xc8QmPat3AIKmjVJgg_3KtFveBeG0ZS8PdxFSu1dvW69mzNhotqKZlasKQkTFn90m7qvMKX9JXOymfm4YEt5_xuuRhfC_K5xZa7UA13w1GAh45xJghYWkxQkZfK3vnCN7EDC9eStb3_uAxXnXWCOlHD78AaXmzbhl55my1QJ7IYsNz9Wnqgo5wBud5ypoAzgFZG-Zb_uU5XEB6PsT3M_HLT7foipWEhlBAcFjiohJh75oIxB4UX1YvLryoB6S591YExsRVkKnsvWA8hywtTtiyoadkpSRn3q6ZfWKPle5s4A5Eh6asHdCzYiObYqIXVTabFkftpytTpSK9egnuiJvO4kF6l6QrPutBq-yCwfL4fY9q69gjSImwnxnMm0XKKNt1ALBJB7azdk2tH-V3rAzue6ZeIpAzTEaUEasbclVVjzCn1xDHsI7PRuVQea73cJKM3J7OJECz1Ni_SFjZCEW0NpPmL5BUVJ7CVlcObxrpQlqOJ9E9XG3KNsw8q5AIJ--loqBWHYxRaYHkB_ip91bRh-ttFQY8GB93eu7oN1bu5DTpGMV2EkF4UyX1AuxH_Gdts9q3vcsbQ4A_uL0WDMH43x90HfNa3ZYY7BDbA2UuGj
+https://webcast-origin.b-cdn.net/bcdn_token=PuV3nsvpuZ-mZPrm63k8O3NxN80QBG7rRNUrz10rVCE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u%2F&expires=1776247697/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u/89.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kings @ Canucks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Vancouver-Canucks.svg" group-title="NHLWebcast - Live Games",Kings @ Canucks
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-lb3.b-cdn.net/auth/88.m3u8?token=iAi0-0uNI_z7kwJqb5x8q88-RZeQiNy3bYgn7k4nSkTPhA_6OAfxgp89nPyeoyoMK5UAbWkgglEnZKEpv57KlrcDuaQhkn2Lf9hzoX-kJQTLROomng8g37kdimJGE4fPQZqqw_7EvtqJI-JKLNwY4Iyd8RvFp0g_xfAc6wvGVCp4KIzl5LXQqy_dVNDz2WzvUkrFcd-BfJs0pYePBvITapIC55suujJAi6gNLzyGG1Il0FCoLy4e8pc3BIxDjrbQm5TyTvaSdCoXZK5vkKWmh5oFZxg850Jl4QyMkLWxwtN4r_UPVjN46ZKaqxbzfelm28F7MlRpo4pDH6F64zUaLIeSIyLESHod_TWchg66_HXdHt-F60xXrysV6ye2Df2mrxcVXdlI3x1lBMVFM-e2DeBnEIP_KCrc0OIiLSdujGOwIP1QjDhT-aal6I2yfTGojE09MwCfL4IyrADQO5OeAPJFtu1WFGejdt4AD5Fh0pDjD3G9YdpEq7EG4NTsqFPoYlHgNFeF9E2A6QEejNIMT6NmUcBUsUyja8qokq1bMQuC87kSrhIiMd6gOdwVuK3G4qX3Ap5qMEuiyOwPZJXr55KgRSu2Ok23P1SeKHnO06maxkMtg9M5mmnoHAATfvV2
+https://webcast-origin.b-cdn.net/bcdn_token=0dND7Xt9X4f67AN8EKHCpehBy67_xdszRxtv_NmyGPo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEDgb7MlFEdOtBGWGKxpzO4%2F&expires=1776247703/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEDgb7MlFEdOtBGWGKxpzO4/88.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Penguins @ Blues" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/St.-Louis-Blues.svg" group-title="NHLWebcast - Live Games",Penguins @ Blues
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://load2.castlb.top/auth/86.m3u8?token=CiEPx2W1hI4WRa5MKKqYKWqNdYl1N635GvlZSmrhk3-kHY7z6-bhl0UdnvZ3uQiskDk8FS9tca93z5kmw95GqEos9am8vrr-Rno8CXY8L0kihvCbD11i3i08PZTV-sXtFbKt23VhpzonchYdF6ZsK2B1w6Iiui1M0ETElRuCr5PmLn52Hfqn9_ftGFXodSdp2Lw2VOrDt3Y2YWVQHDCJcJYiFFRKs1JzmXZjBE30eeKDoAXSEub-MdRB9HHHAGwDtH6JLarKv57XhhX1ey93yin9CvZxvnv_dHNZ2YWwtYdTojpyqHODhye5LfQI6y5caPHPbUi64mi8J8XQddrrXpuMlDG8rQybd0Wrk5yI_pz1HppDjzXAe56R12Rl8YgMofguiW8DfEJ0PM21M0CwOLE1pkUYsVk1FEb4s-WBBnRlI0dmXXibEfOCv-uJuyOhOI4cFbUxWxFhb9bymDpijydGDo7V3nBoqDENL3MJZ_JQWHS42Mvp_s5QozPFTAsB8AyUQK_KIsJ6Zvmi6KYAc9NrzSS5d40Dt5fYpoRDsuBiAOEzNzhNfFfZSJQhGS6gDTVHglfvMtqa7BkLQZVeLF1LvnB7HcLkkk8Q8gfbTWXqvDCYuLhFHRyJ4VMm_Cnf
+https://webcast-origin.b-cdn.net/bcdn_token=z1KjTvEzeScFLDXS4nIrcZ-YzMheCJS3GHCyv3b0D_c&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGCsOP6ujenwnu5jEpfSbN0%2F&expires=1776247701/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGCsOP6ujenwnu5jEpfSbN0/86.m3u8
