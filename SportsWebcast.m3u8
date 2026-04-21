@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Oilers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Edmonton-Oilers.svg" group-title="NHLWebcast - Live Games",Ducks @ Oilers
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Bruins @ Sabres" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Buffalo-Sabres.svg" group-title="NHLWebcast - Live Games",Bruins @ Sabres
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=jmx8R2ElmIR30-7hS1_ggPu3sOfW-FTky0xRUO1aEmw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1776781690/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Wild @ Stars" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Dallas-Stars.svg" group-title="NHLWebcast - Live Games",Wild @ Stars
+https://webcast-origin.b-cdn.net/bcdn_token=_TM4OTN3GQl6rmSKYJjtWLeTJZftfZy0Ai0UuDMHW6A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGDkkeTXzhjueMM4dscPO4G%2F&expires=1776797632/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGDkkeTXzhjueMM4dscPO4G/101.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Lightning" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Tampa-Bay-Lightning.svg" group-title="NHLWebcast - Live Games",Canadiens @ Lightning
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=TFzL3AO3mytDgr4KHKq0RLMJeg8rkXcDCkcn3Zuq80U&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHUYYNXvyblTyK3-UKHJFWe%2F&expires=1776781687/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHUYYNXvyblTyK3-UKHJFWe/104.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=v4nNr7BJuPraMqYDwL3blyX9DpyN28KDP-WnqJ4kXAo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFEvnHU4WCzvyFKyCgQscsg%2F&expires=1776797629/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFEvnHU4WCzvyFKyCgQscsg/171.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kings @ Avalanche" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Colorado-Avalanche.svg" group-title="NHLWebcast - Live Games",Kings @ Avalanche
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s4.thegamehd.top/auth/84.m3u8?token=zdmRHfb9LmzZie1p3NJrFRb9ZjiGFaqozXiJicPqkv4BhdnMFQI-Q5xREXQKzRPXecOT2m4yav31lN_by5OMTSoGfbw_9_sB_3_kcz0ukTNt8O17YMvrJj0bp5y4Ihir8WAt-OPrdbvCiSucWRtbFivjnTVwNMkz_pfWpMZ3HwcM4bBt8ePTbjp0gCpiHCo_6W0f4tCv0l-KjZe9dREY5HDN7DIxtkymLLx3n45F8U0y_XycqPW2wVwo1JKpFoCqC2kkS84Tpp9BPDS8bAKYGo0wC0V64a6uFrhoRoK8IgRxLJYoUdnBjdX0VjtlzkfSQHql7eKSvhLWPfyajhMxo-IjPuHv1TLzVpnkTV3SObVO2lsDePh1eDm_pTky-q2wOcFo75LVjWQnc8TD8WcM_-AqBtLonrXdX_64cv5h1HuCVsuu4rGjR2XTln18cs5lLPB37f80bmWN-YPsPNFWC1CmO6Srr3J5dubHfXCa_km8IqriWiNmRLE4l91EAho1b8rYil18zRd4reDzPE2Wc9qiCRJl9ZwHpvUgzS3ILDr27Ea--s6VUXpu2VYWmkaE5kIieLKeD-6JddyB8Xul-ti7xO3u-OSLVer1wowx-Kc
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah @ Knights" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Vegas-Golden-Knights.svg" group-title="NHLWebcast - Live Games",Utah @ Knights
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=-etibV4TGXThOYzLZU6B2laOJJ-_5UXEpc5cWJIE2tY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q%2F&expires=1776797634/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q/96.m3u8
