@@ -1515,3 +1515,5 @@ http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/9182.ts
 http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105641.ts
 #EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/insp-us.png",INSP
 http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/69080.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Toronto (CFTO)
+http://stream.cammonitorplus.net/1714/index.m3u8
