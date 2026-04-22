@@ -3,14 +3,14 @@
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=rJyQIesnMDzLesFGqO0z58NkL-EUOnz_J8o2H8-d3PA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1776889129/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=qbT2jDFpvE78zXNGRWNHREk_AjmD0MhDC8auIWfMC94&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1776895700/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Penguins @ Flyers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Philadelphia-Flyers.svg" group-title="NHLWebcast - Live Games",Penguins @ Flyers
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s4.thegamehd.top/auth/173.m3u8?token=uBUB1psG7cQX6puFpLJUSkG0Ow3rIBga-q3POytDEVHA3ft0NrAD2zgmmjQyebh9ZH_xhDd0stW8W04ZnHTBSqCFEFZRmSNi2QYVM5hsIjdO-kR2s_bTTdHZGPzJ-tqrhO6ND3jTGcoVaRlb45RS5sqMMfLBO7TR1-pYVWtseVXCC5IeblSoHrY5T2CUHy8bI1H6r5xpTGgG1EqJNhafbAE5g91oB_RpBTBuvg2NlvvOqQomG-jlGptpD_gIvgdX7TZLao83oZ7L4nE_qBNruBaFD7ZkUZiEAMFw_ykdmk35l4nbWj4RkJmn77UGhz4-UWs1RgWqPsGfuSc9090SsvUZGdz8izP8-Ayg62LvXASEKchxSXXrm2eRASMbM9zBYKGNhTXpTF47Wt6JpssUyBUi8y8JZ0Z42PEhsBCMcHt2UGH7z6KbRRBcgCgmCl0u1gHePSd5oQBX-zsJ3cGCKc9qt301RPknh3SdzGOxaLgDHWrr6vJ7ZiOYv3kYa1ueZ7zf7jljDzplzPo35SVzOW71ZLU6baSUza7fCnKLXVcOl217Bv_Cnxfeeq9c2i61ZU9uo-DUVz7RGqxYP23_nFYUdiil0UBNbYxvaaaBqOcPSOky20Do6oYrMgL5zy1khRqG520UY4reQ9HwOYuajw
+https://s4.thegamehd.top/auth/173.m3u8?token=uBUB1psG7cQX6puFpLJUSkG0Ow3rIBga-q3POytDEVHA3ft0NrAD2zgmmjQyebh9ZH_xhDd0stW8W04ZnHTBSqCFEFZRmSNi2QYVM5hsIjdO-kR2s_bTTdHZGPzJ-tqrXunKLCCroYFOhwh--N_GRpdq6mlig0vCVDtQFexqFW4miM3b6Uwz6L5nIdMGVrmn2YyFEMcVglKSUMDFfT-KomChMe_FkDfWS-TXmtnfPkNLs_OfYSesTq7vwbUwIuLeDy8kSJxrEmXf7swYPBRJ3fu4y8vyozvwH0Kkmn3PniZHxmfeggn-657rpMPIoVELi7nzANJpn_4kyVOxpUUlGUMaStQYIviFc6K5ivDPLiLuix8tG7aP50XGZSL_LU3eAIRwsuiQBK7ab3EK8v59tMFYv2QwWYuqKcbkpYJN6rCXVHlUtDtfNwcSzPiOZbUnbYYaIOmndP0PFIujI79SmQpHG30UoYr4zP8UfpGETcWnK6iH5DQ2T1mQgmlcNBEernDhacsVchtppXEgHFgXJLTgbvcJg3Y2ngnnr-paAw15acvtDUfWVnkhhZBqUzNjxhECdDqialGX4C_vMI0FrvAsGt-yKY-CaYJ3FUMIoEH88vpxqeOqHHUSGsBUtF7b7KDTLHjF--9s_LYf6an4HA
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stars @ Wild" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Minnesota-Wild.svg" group-title="NHLWebcast - Live Games",Stars @ Wild
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=Wq8d-vT5Qg15-Q2ESnZU4SqamPmi5V2ZRWrnrsXnoUo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe%2F&expires=1776889126/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe/105.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=eDxp3M_KGxPZHL8ifcYVmfdDl94xoY3dRxZQQoNmrIg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe%2F&expires=1776895698/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe/105.m3u8
