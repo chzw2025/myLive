@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Lightning @ Canadiens" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Montréal-Canadiens.svg" group-title="NHLWebcast - Live Games",Lightning @ Canadiens
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Hurricanes @ Senators" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Ottawa-Senators.svg" group-title="NHLWebcast - Live Games",Hurricanes @ Senators
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=beUskHMy8-F247_udFNsPeRXWARzUfkTxMR2n_dPzqk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1777122341/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
+https://s2.thegamehd.top/auth/102.m3u8?token=ghf2O9k9Tq8AuwQXWBX2tCMcXu1qdRI-rIvznvoZI-6MDIPLdb1ampWqH8Lo0M28SbTDt2HQPv8jhQCDk33ODrzG9KWTMW5HEJZ8ljuaNJTlOcGvtj4Q52QeiB4W0RYmnPTV84byVsdz5pJKfopXrWTlDjo8kOh-ue1k9xhfw53ToCD2qfiHeOg4gPIZawJ2M3eU5V_5SZjiO78bvX88rxDSXpgkJ70C_oyU3J1g9j0TWQI5Qk09smkg5X87hB1LwAMCymkrOxBzo4EJguue3Hc5bmxr1hs2BeiWNuHTvkdw2tmfE7rOzmttaK9y3eoAvp45dPAgjak_O32u8GmhN8gBJyLdGkfcwrWrFEJOgIrL88-oQU_PrpwVEwu0WpY60dAT7-0tZcAEuU1AtjP9iRMVno1A4bP94X0Rmaw4HNNLod51Jbpr-ERIQgCTu4e2TQX-U3-Osc89poMwFcY6k7eAcjD48ajJxsG7bepE-jky-T9DAQKtvVkZNE1Yxk4w3Iw-VI1KLOohfx91VkCOWdqXK5EtKGSX3QhT53_DwpCikuK4miemXSaTT00qCVV19oZC_LVW6tiDxSJMe9SBzU_z2pvj3MBQTWg3TCPBNHQEG_rL3UWYF0SfHp4sxYv-wd0RSefHNHysapxKyKuESQ
