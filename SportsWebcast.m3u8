@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Lightning @ Canadiens" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Montréal-Canadiens.svg" group-title="NHLWebcast - Live Games",Lightning @ Canadiens
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Nfl @ Draft" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFLWebcast - Live Games",Nfl @ Draft
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=nMiiPLk-zhb1d0ZkmrR8-n70OpmtoBnnnaJ201m19rk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1777323145/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
+https://s2.thegamehd.top/auth/1.m3u8?token=Dn9aXe33TSEjKRFhsJEaFGQntpJA5-fZUn6L4PQz9F6xILnbGUR7Dj86PBpTvKSoi1luuko-zy8INRjJIxs3DwbeXW3BbE4voL51SSIsrCtLL3f6FxSzfsebZ2ESsYJ-EjVx6q8cfwP7Q7UCt0Yl62tUZMHGoHku15a8HViobxnO52QkQlKMJ0RXQv2jg76d0MErMTaFq5O3GZ6BPVj111bna9rsHkenyqiAirHExoRvvobh-ucCtIOoQL2zJKiAc6ugPFaFeznxPviydt2UYUViWhrkBE0X_DB0WyIyExfyjIhwdYVxPvTLbMlrV8spN1p6nHn6EKQJPdXMULlhYMdvdYnsORbi9v1E4p3f0mwpX4AkFljZMs-QLTNpfzHzpKxfRuOiIrkknk8PcmrIc8xOAeAMqBSv2vVS0XEVEfKoI-vrCXa9kYoG7_92HSqY9wwz8ARhLFkQR8BJBDORrmCicnDUdR5ePATQI_w0ZTp1Ihse92vk15uAMX0aP6AINDjlck2AysSNbFDXV9Gh_E8LoNyevCth8wk6bzHkt5bhOkeb7UlDMzZZe_l4jSPqPz_kh51RiY74jJQrOpy0lwzEy9hWHGeF73lC7IIIqPCj-Sk_yYVPR4PYRmHoFAuI
