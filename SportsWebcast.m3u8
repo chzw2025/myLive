@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Knights" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Vegas-Golden-Knights.svg" group-title="NHLWebcast - Live Games",Ducks @ Knights
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Wild @ Avalanche" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Colorado-Avalanche.svg" group-title="NHLWebcast - Live Games",Wild @ Avalanche
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s2.thegamehd.top/auth/96.m3u8?token=GYhcDprM_sNYGHBJbQZ-cI0U2XO4GYFuE-2YzfwyxTHkuPQjbKZVMOCsutcqrhG-sfG1Z29oYHbHUmyxpqMx4_xpIdIEN2WzuHGrKKS_EO_DZCqj5BZHMxEZhdysfuWxzKvLN91T8prNf8TLEDt2gFosz-aKSIFiVoVaYBMmMRABLfyu2mghhChvQhZowRbyy0y5vm-el5mAD_2Y1QvyTb87edliwpFrbAuImJHHaujW58iF2LKWxSHXgmQpKaR9bZ1YnKsUFa8bt03VQXqs8nEO7MhG2G_bpTj8S5EttVckXTCFS54MmuLsLh6CyEMx0aoRHihCTvgbzx631KElAgwKcmqMM3J1-PT13ztzGwvJNDvvo4Mo138xx2W5CsPEAQx0oqJIb04nHNJlJlL50H05-pJTU8CcCNaiLB1ini3pw0s0GCt_JoHsYWvV6s7tsZPFzaemc3tf3ogM6tei9jV5Zzgpx3KJYbvjSwuHiBvP-NI02ObgXyiAkshGNTCmzXqRaPNPjec6KA6pxFLisyhlNamrMCpo5zqSZePsXlIzkRqoHAaBEDGil29eT2G3CWfTtI4GbrrRdBPoIhHCEYDMbotVoUNNJ_5WCAyJyHKpBGV_gQgi-h9TggETNwbA
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flyers @ Hurricanes" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Carolina-Hurricanes.svg" group-title="NHLWebcast - Live Games",Flyers @ Hurricanes
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s2.thegamehd.top/auth/92.m3u8?token=NHgGE_A08mhau7JptaUGIgZnow6AnaU7eW9rjYJZ5Aj80vy-Dk-FI5XZqsnModj2zIql4VVPs_B2MchKwLq63WZOPMdWolxBAx21Hg0QTbV7O8RvktiYaH3HEVecGCIZvdxpuuQNXPLxWFYDs--jmcAYTHhHOPLqHAuO8YDPMSTkUri0WeFeamSL0bJ6G1ylRG3SsoDrXc8hWt-DHKkb8pR42r9v7bde1CKI6PpiMFDja-1P-KSzQuihs5kYzNOxq94ll-rpB-_nXsOmPR95VZMnkQePIGYBDliT1vDwX7084_b-OCKiuENHs0feV4-ni-GFgmi8areZbdtTJtz26SuyPFa8ewu30a4c7SCWjeUrAkD8NvlkWvkOfgAbJBjQ1wIGVVuOFlbQo7S4gltlRtarKMBVWBC0rZ-UbSFgIK97vhtLkyHoawyw6SrOsSsQQ53V-t3bTdPLZIgGuyaDE5bbsG8_gnInYPlEtn6C5sloj5ETD_f--9tMQHFRL-I7Wx3wukQTX8b86S1dJGcHuIlXkW5upJObKBGXikQ7rL98ygCm50JHpLJJRm3zunrd47d6ApxDDhyqr_14_pi_ehNsc-RZOmkF94BfXBu6wMmN-Yx5KzY_pwjkNkSsWgbB
+https://webcast-origin.b-cdn.net/bcdn_token=XWfpbUq2Da_6Q-kgcxGN1fDoYjKK1YQ464O0FbErk7w&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH%2F&expires=1777986943/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH/84.m3u8
