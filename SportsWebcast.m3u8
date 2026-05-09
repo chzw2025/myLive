@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Sabres" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Buffalo-Sabres.svg" group-title="NHLWebcast - Live Games",Canadiens @ Sabres
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Avalanche @ Wild" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Minnesota-Wild.svg" group-title="NHLWebcast - Live Games",Avalanche @ Wild
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://ca3.thegamehd.top/auth/87.m3u8?token=jDGh27mo3TwgSbGVh5Z1_M1-be0U0dAtHAG4uMuMdwuJIu-kt2d_Wmztsr8TGMJU6uOlVhs0hvoNNl3f5_csxo1Vg6JKLpH8Kan5Qqchrj_Gu3MI9jR3wX88iJgE5B86wiT_V_7sHic8dwdtMfOliC_czVbL5OgWC2adWOyeMMDKkr98qjPfmpBIOeRjVtDbryXDcMK31hAI8ltRvmkIKZh5HixIOsBdUAgzN702G0-D0V7jWDE939FrUnfpYV2U0SqVSILTUPxokRg6KzIbCA0tSZBT_iIWmqy5LkcdKL7aE3AJf7evcLTGdGzXuH4SZA8gDcgg9lesbwThtDRi-jJfaXRgArwrxN3urvAQQRaEPbPkT2eBCNJPWR59HAmpympCyAWS_8I8XnfZ7fO6M9LIAHrT1Nja3WuAEzE_o-zlhO0Qp_zevcFQzwdpQn9nLz_tSAJ2mMjZqfBMHr6l7QOnwqOzQDN2CLnJypjIlx0WHwcrtflVkH5WCNKiIkHnpK4wR2_9pVDy-dljKtu2JSM3_t082fGTYgmgP164O_7KvIx5DY3N7yFC4aAW8vcPreSe6YmmHD0Fa-k7ZTFP8SPeZeWwb0alB9krpqe6peU
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Knights @ Ducks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Anaheim-Ducks.svg" group-title="NHLWebcast - Live Games",Knights @ Ducks
+https://webcast-origin.b-cdn.net/bcdn_token=PjwNkfHwlq9Qf7vzo5bdXCyvUuxtOwU2fGvCYxAA7u8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe%2F&expires=1778339163/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe/105.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Hurricanes @ Flyers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Philadelphia-Flyers.svg" group-title="NHLWebcast - Live Games",Hurricanes @ Flyers
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s4.thegamehd.top/auth/90.m3u8?token=HUN8WvW5wVqmejqh0kFyp3obq0ZnS3AzcyXl-pHUGzoGgZRpNFOk6jsEF7tRPmaS6xxVWqpRBeSR-JlIevCOeKFrGVn1iTGN2AznuPZfvKKZyhfZJTaDBfnUJGiJerqgUVSfBbbu3MBYCLW_XlueYgNFF4p86boyWvLJbUWEFMejs2yqxGiL6hUp1v1C387UryywsmEWX7E9JFefaFgZjXxqSl5VpJ6fgprpfVpvtpUmgQKHJSwTkVZraTuV8A8K8vYwU1Rnt0JtUkL44UoMf-yjRprweMB__0WHrxnYVF9OTtviFS8jVaQO1h-d1K8vs-o7XlVefGidFWNh8UzBUepUtl3s4RoxyyAeuGxcn0s3XdjZnIkvJ1ztUeIoR6aXLDQPcUM0DxLa5mPf_17D8v0tKeell-uhNO_kS80R78bDneLXIOYr3vTpELxmrkX502yv6Q6xk94erRujBmN1ed7TH4jOCjEDyn--137BiZmGJBY782dNIeogzQM1ApZqBMG10hiLFa57PGTgU0ecRqrgOr9vdTlUA2wrNbM9R5cO75Q5e21-d-iriKDT1oDfruF6cD4ICJP4JPwO51ID_2R0gycyqLSI2jxOt4bhUz0
+https://webcast-origin.b-cdn.net/bcdn_token=oIHZyIoYcSJz3ZQ8QMtetEWJiWl1YIbCRTi5ah7jhbY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj%2F&expires=1778339160/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj/173.m3u8
