@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Avalanche @ Wild" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Minnesota-Wild.svg" group-title="NHLWebcast - Live Games",Avalanche @ Wild
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Knights" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Vegas-Golden-Knights.svg" group-title="NHLWebcast - Live Games",Ducks @ Knights
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=b3VdlOSWHRADw1wCyH7CvKdm8C-hyDHNGuyCWYxWoBo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe%2F&expires=1778593696/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe/105.m3u8
+https://s2.thegamehd.top/auth/96.m3u8?token=GYhcDprM_sNYGHBJbQZ-cI0U2XO4GYFuE-2YzfwyxTHkuPQjbKZVMOCsutcqrhG-sfG1Z29oYHbHUmyxpqMx4_xpIdIEN2WzuHGrKKS_EO_DZCqj5BZHMxEZhdysfuWxiujvpekT2QMCJOw8XrN4GrZj_SZMPhIuB5zn6IneAGe5FYm9Tt15jbnv9stH5odxObjYnQl51aRGKVxaeZHSZcMfNUYIdEgrwLxhxuy6izsZtlpSfT3njAeIZk26hEWr_ZyazN9fER4tP2t7wFCPSNB9hWJuV3Zm9KKfMc-qa9BOCHbVMMmxA1fX9yZ2irPWxKGaE_rQfIlEjgJcW3CJeveYbTjXhm7p-7UGeGmfAEegALNmSXp91yre4RmQzszIZ-l6e25P5wtk8RJjAr8-Gk55MOSmjTfF9SDHwsgGQyN2UUvUP7YEZpnRo3Gxc2pBjKBJLoY365LugHzmLb-Gf1VfHCeqTjrsLKAWCAf5OloNztxJkAC_c3j3Xbs3g-CmK5hYO4YP0TIBWzrgALwPyVbU5Fb0hU4211HfCrAVRXIF7Q5r6U7Li_7E9sW77xpGSpZFk6tTHi45QSghtXMXTonJZqxorREFb460pbXu3MTEsM8oa7sbrAIz_Efk1cG6
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sabres @ Canadiens" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Montréal-Canadiens.svg" group-title="NHLWebcast - Live Games",Sabres @ Canadiens
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://ca3.thegamehd.top/auth/87.m3u8?token=jDGh27mo3TwgSbGVh5Z1_M1-be0U0dAtHAG4uMuMdwuJIu-kt2d_Wmztsr8TGMJU6uOlVhs0hvoNNl3f5_csxo1Vg6JKLpH8Kan5Qqchrj_Gu3MI9jR3wX88iJgE5B86N1D9HK5VZZHmMq9BPqz0Ndz499Qof5GDuDVX_IC-8tJxQcqVWWEvtJBklaUinoK2EkpEt6dx5BnBf3WRIYQ7_CrhnGawt5IUTbjUorPnsI8AKHdhVOKYE6tc0a2Mk4_-3a8NQGvEUDiK49AZ1FCOoufiuOTD_jsATWjyMjBj3u3zNdfEuZmn7vbuUZm4z3_ibjf1v0-5JykDOugoikGx-6nyf3YUX2GjWGP2d-zvZC6CXj8fbqkLh_8UFi1yD8QZz2aAz-FKkZiNPnZUDs-mxuAh9JjhNMBMoo0RZGomiAEF_BKzTw3QOjKp09GWxcbp22PKE1B8nXnlsV2RBvITCpSeIKPQttS3b3O_JEUlrk1Mqc3fcPU0DuFi1hnBhE4uKRhSfdGTrbLB3tI0Xgb5jVr3_j6eVFqUAAXXosohmkzGG19ISFjQeUV2y6jKh7gXD_KA_IqPUx0_xb2jSx8lPAlEV6RQ5HyWbYF4rjZ81T9kua-Ba4lgUH7sXHKblr4w
