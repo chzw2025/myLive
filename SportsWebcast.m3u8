@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Wild @ Avalanche" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Colorado-Avalanche.svg" group-title="NHLWebcast - Live Games",Wild @ Avalanche
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Sabres" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Buffalo-Sabres.svg" group-title="NHLWebcast - Live Games",Canadiens @ Sabres
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s4.thegamehd.top/auth/84.m3u8?token=zdmRHfb9LmzZie1p3NJrFRb9ZjiGFaqozXiJicPqkv4BhdnMFQI-Q5xREXQKzRPXecOT2m4yav31lN_by5OMTSoGfbw_9_sB_3_kcz0ukTNt8O17YMvrJj0bp5y4IhirUS2tvjqLoiVxo2uo-n1BanKNRR_CDSCVHP8xXNS0GJUrv12riK4r8bzlGHSjvj0Qs8wbtDxcE_V07ojAFmuatgNAiKaWkXoinYPLC70a1N2pn--cUa94WUafoxjxUzv_xKIEHFqji3Sw4I1UXum9K_B0E35d7NAAYJhNFmkswXb2Ky4-xVO8FTqQZLAVVNfRsO3orSNIHvnkgnUhYAH8uvKyMvCu-E2ADqKFYae6VnVvPHnug4DDRumjMygS8y2YRiMhrY_9f9H-ro4oRfrrQFQ8SQTzZtwjztNSMFLyCH4wRwtU5YpjsprfTw8LTEo3EuGtmpXLZEtcodyP6taifmdIpo-AD4wwNKr2TB8Wi916_UVPKHT0XlV6cOk8T6uhhinsrQ7ZJRYs8KvKj6N3UQfoNhwtWEVjWRyXE2u7aJac_0QvPKxh4PPFysysj8xXkHGSY4shRF65R_z-R4SukhGl7tUDsTgiLoZyO7V62fe3aqf_lEnMJPCGTrfxnfFu
+https://webcast-origin.b-cdn.net/bcdn_token=bhZBlt_04aiy-GQZa_cEtUl_RSERcsFzwXcejQi96O4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGDkkeTXzhjueMM4dscPO4G%2F&expires=1778778032/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGDkkeTXzhjueMM4dscPO4G/101.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Knights @ Ducks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Anaheim-Ducks.svg" group-title="NHLWebcast - Live Games",Knights @ Ducks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=RXe9zUfViHpGxwlXXmZ9vvOoNWn7TsWdXyrvhubEQVA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1778778035/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
