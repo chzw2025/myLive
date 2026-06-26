@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Knights @ Hurricanes" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Carolina-Hurricanes.svg" group-title="NHLWebcast - Live Games",Knights @ Hurricanes
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nhl @ Draft" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/nhl-logo.svg" group-title="NHLWebcast - Live Games",Nhl @ Draft
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=p6sNxG2ZBLBhTVCYquLXdD6aqWbfy_Ja4hhDeuxuZcI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1782511211/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
+https://s3.thegamehd.top/auth/81.m3u8?token=WKNL8DAL3tJlKiPI66bHdOdTgTsFEyi8v53VZMJwXtQ2hqd8iieVmjVAo6YkWvZPD5jBvcPMqnsZjQE4XJi_W9CijtdcHv6lmzamP3ZbBWNYHDXDH69wM-g_pQmc9QR2S0vCvIhTxBk4p7vXJoajxGioT7odY1L_APUp_QFYADhWni-JTlW3ESdyCNNRTosOG-j4GalxxHFOohWLvLmxVtLWoQFg2Mp15OMO6rg2IKtdami0GTMy5W-joSvUDfn-9nNZ22TRYyrY3h7gsPz8RP1jR5yz6FuDy4g2StUkamBrviACnytsny4szRBJbQxhtCaKa4XK_65TJUwUUbbzbwho3LS_NRqC3xJR66wCiEpUEMlSAKAMnjU13xcXtynFwVj6xLxyOg2Z1ZDY81rQ31bxXuCLHuV6dC2c3zp92-k4fBPvvS8RDr1pRsP77m49KQ5lrOzXeEP8PPkKDl1MdQOhdcfVAqFQzt9otyMHHtR5XWUeCHhOoFEn09qLOa5pHWNml6yr8DnFhVn02Tnx_LxaBataj1TKD2x3BVO3PXubFQ3it-GdVovsArTjRUXWH43yHLunkYRhEf1Fr9U3eeqbuL7FYGY86Cv0WEYNN7OwM0dVKTNo333R85AejIHL
