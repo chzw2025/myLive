@@ -1533,3 +1533,13 @@ http://stream.cammonitorplus.net/1729/index.m3u8
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpupJQ7-tXNlfIYbKYvQ4r19/m3u8
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="AriaPlus - Australia",Fox Sports 502
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptOf_019ISG6XUOkn6wrLJi/m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CBUT.HDTV.(CBUTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png",CBC West
+http://44.25.145.45:5004/auto/v2.1
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CityTV Vancouver (CKVU)
+http://44.25.145.45:5004/auto/v27.1
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Vancover (CIVT)
+http://44.25.145.45:5004/auto/v32.1
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV1.(CKVR).Barrie,.ON.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png",CTV2 Victoria (CIVI)
+http://44.25.145.45:5004/auto/v23.1
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png",Global BC (CHAN)
+http://44.25.145.45:5004/auto/v8.1
