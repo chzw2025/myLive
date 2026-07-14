@@ -1,31 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Panthers @ Cardinals" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Arizona-Cardinals.svg" group-title="NFLWebcast - Live Games",Panthers @ Cardinals
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=Tlvxu49d9Ot9dQ19X3vbWzAZWkSJEw4FWUhxB78GUc8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak%2F&expires=1784055735/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak/57.m3u8
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",ESPN
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/1.m3u8?token=Dn9aXe33TSEjKRFhsJEaFGQntpJA5-fZUn6L4PQz9F6xILnbGUR7Dj86PBpTvKSoi1luuko-zy8INRjJIxs3DwbeXW3BbE4voL51SSIsrCss3kQUP1Y769mkjwkdwWLGvvYIZyedmVXgh1qTr-jVM5CvD6DWUXAlfAfEuI0kFEiJWuYMoPCk8jbbB2eSyyCwgQjZ7T7MwMz44qB_E8VtGHRh9HYXluX75cY5jH7vsiDCIhkkMCQiWqg4ONi2hfsMm2q3p5WncutsDQrCG1UfJpW8TtAV_31P7yKHmGwIUudtNXHfkX94hdUb-7BXjqDPx6kh-G3QuFWfrS_2MJlsAfBSGKWRQdUkMDqEWlezoLoMmx_uYc06ULik1TaxVeU_T15x4rHEnc9ZFgKqB2zDnn3S0oSosVJWj2rNmTjPuh8hKGCSvIEEXGFW3eq7Pz0rEv4CWO49qTrZlkfAc3MHIoFWSmNOc-FhpLryFVL0l8GKspNJj3o3pTvFDpQvGMHboRdvhCmSt1bh7L898YGADH7pC8igTkEPJwu3Du49nc0piCb53ZtZ_a5JIyq3x3Us0deSa0z3X158dZNuyV9O_gNKA7q1ezb_k0CcTb7r5R6KAjBphqnFj7LCnKA4_Kbl
-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",NFL Network
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/50.m3u8?token=67GcTB3_qB9XvpxnaVttseAgcf-Rixa1vsYYqqDm5hiMFohdSAhSec_qXDPeBnGkVc4iQ5JlfLGs0f3uM2PIveVtJcpL2-pXUvQ7qzQTrhbptmsHjUmI4_lD0St3PLo7x8Nh_6LPFo2wFvFgO1p681242FnLEXTJaYQ0YY4hSCGePyij6Feab4aV7NXhpGNhzXBWgVzO58_t7we2emvpsUHNNLL--s-D1sZZNWFepWwgUm40BNnHxvZa5NzF8ilppmLYds6CJ37y3PCpHWHJA_7462MAGI4dEAsR80hGstMtjFjjTvZGHDq2iCtciwlBZC8Sh-1sYSh1vwxCz4JoI2Sn66jAM5yMP9mPz27-tHyFSmPsb67WGknI725i7UZarCIG_cwSanUaxU2i_4dpqsCNxqbPBr725hTuMGWccf_mWmLhAvTchzbeA7n2N4vTRbGqAewhL5Ak4gCXhUyQIgK0Tfj5yYtoa-0istvaLkIyrs321l6XqfCg3siF-Iflpfsbjfj8dHYJcGMuDxxBNktMRgDUsY1HBwdIjFaPICtO_Jwpb4ZFeffE_k00LOJ0kZPRU345Kw6cXROJrCbinStd6SD18c4bKZhIzP6FkLFQWQFJ_TXOK06IFF1vTc-P
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",NFL RedZone
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=k6R_fnm1NT_4HGB9QAdoLzaqmrVCokLgBbM3z6JHBFs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuQLi9O9etAfuq6m7oj0V3%2F&expires=1784055744/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuQLi9O9etAfuq6m7oj0V3/228.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nhl @ Draft" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/nhl-logo.svg" group-title="NHLWebcast - Live Games",Nhl @ Draft
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/81.m3u8?token=WKNL8DAL3tJlKiPI66bHdOdTgTsFEyi8v53VZMJwXtQ2hqd8iieVmjVAo6YkWvZPD5jBvcPMqnsZjQE4XJi_W9CijtdcHv6lmzamP3ZbBWNYHDXDH69wM-g_pQmc9QR2ipuSaqAQGmHsyZnR-KrLn4QJgceSC9Y7fVqOkTMebQnU2rMSzUZqp64d4ISDI64eI3GM8LKOKYK_neDERraN2OOEXQerg2Pt91-2cNeYD9IwBAsxYLmh3KHYHuslSvLcL_XTx4qn-0B0T1nN_bAncUUMTfD1_ZA0XqAlrxWqIGS2tWljaykmwj7JEsiVpdrmoFmD7BWD11d2i1j_SSom-QFOyQhMtRPqyck4inPEWQvSpbYHnE1FBT49aSpX3GAiacXbdJMyvM3tPJ76Yh-OLsy6aMZRzoYf4jRAI_F_CqZxvuiuE_BY1mp0cOcJOqpprz6hQ_-fBX_UjPWrjmLdcTjeHD_QH03j76vLApkS5cWDKU3ueGvUciOF1W8ELPgH1UYwUPi04zGnhDrS_81u7Ed3oD8aXasEb3kXafSAATN--uH9yx4K62Ef9uUBTjCAR8jAEaQSE1KulH1SHLGCrMLqz7w5FFiOPmcARMf2H3wtEGkhW4PWIO8oj4vGiSJ8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Mlb @ All Star" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/MLB-Webcast.svg" group-title="MLBWebcast - Live Games",Mlb @ All Star
-#EXTVLCOPT:http-origin=https://mlbwebcast.com/
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/135.m3u8?token=zee5WkdKuXkxH5mbCj08EaOXbsF9PdJ6YzSbdZFNdxhM13us48-BjGbTcKVLDCOSAU-LHgGSY4amUPSpXs8JdwPli2oZiAf38nbtDXsIOXHo5r9UaVMrUp_o2AX3ZRd2CRAs1tZD8OMNsPx_uTrua58eKSyBU3wL5n6UHxhKISK91xWXwRK337lQgR5NnreMHn6yX6kAp-JVsDPf91dS8ZZC8nxP2844-5sI8HPf6vRr9jSemkpZQ7POtBrGk0lyGIAdyFD8zB562LPWhniqAU3QlGCaXJgvXPnxmylTUpdP-H-L_MZO5j0_GadK4Hh-fkdkBK8go9z8P9Ik6SPySr0CuUkJ2C1GYg4uItMPU0KEAAGEbPwVDq-ywSpdnK4TWb02uYX4lH0O5s7YbvvQpDuROmRSqkVjoB4TrcB9oljB1IGm-Ps6EGxosb9pFj74uryWWKJBCNxd8TMacabxAFTNdD6N_DSRLoWdZ-ynAUMVpU_Jawrnanprir4qciXv3wvV4BcysaG8GsAFo-e3vmY-edaGwlhUrqpRosoORDF4-dpq9hX-Twr7YdVP6axU-bbcq6Mve_MvxqGJbuMLdUExtPt3PuedZIrSeLkEhxgViNkHRf6BgFY9HkuUF88O
+https://s3.thegamehd.top/auth/81.m3u8?token=WKNL8DAL3tJlKiPI66bHdOdTgTsFEyi8v53VZMJwXtQ2hqd8iieVmjVAo6YkWvZPD5jBvcPMqnsZjQE4XJi_W9CijtdcHv6lmzamP3ZbBWNYHDXDH69wM-g_pQmc9QR2-U8t_tALtDc_v9p48e247fNUzQXCki6Tg7YG4VxC8fhGZCKCXjFRqeyZ4T10hy2oKxGcLxtqQ4H1cU5-3Ug5yXwXym0gtRXTmvFRqjTh1jjOeBFxmdqEoJulVeXZQOn2u1c5gbdWwljZq88-bNg4ssRW7juHoRS2jdpFq-0MH0z3ntH3a9sQNWnL-adCctK3V4c3atAW-qbyAWBCBG0ji3YfBlWe_BKntGmjeSPssNCYGby9OS9p9hgqfm2zh_6bvoORdbX8neQ47OL0L_-uFKjVtELZt40UBiDuQ5kqm11Ko9hESXL4v-4Hw4iMnilWOfCK8eo25gQoco_5DxE4mICilScLehjRO0EpNLMNwZyO95S8i9ce9I70eeQUoCHZzrzOzGyaV5dE2yQB7qEIAUTyeqgLvmuIN_ii0bMvtWwam7qlFAgWwNbEQJe_PMC3WazlSlvjs4jwKJmnmmb6kGaYTNqjSmgTkxP-zq6BGDqTjRK2tuZMEUsNQdc7gAxX
