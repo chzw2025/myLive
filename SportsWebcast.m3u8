@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Seahawks" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Seattle-Seahawks.svg" group-title="NFLWebcast - Live Games",Patriots @ Seahawks
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=d3-lKsUrE-2xtk5Gf_fB0o9fx-qof64l_Gket7SLdww&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFolP7eA9_VD-4bwC-VhQjq%2F&expires=1788472084/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFolP7eA9_VD-4bwC-VhQjq/235.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nhl @ Draft" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/nhl-logo.svg" group-title="NHLWebcast - Live Games",Nhl @ Draft
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/81.m3u8?token=WKNL8DAL3tJlKiPI66bHdOdTgTsFEyi8v53VZMJwXtQ2hqd8iieVmjVAo6YkWvZPD5jBvcPMqnsZjQE4XJi_W9CijtdcHv6lmzamP3ZbBWNYHDXDH69wM-g_pQmc9QR2KCm8FTw9MRFz64X__9Iq5NywMFjPULzjsL5HfIRsimJhqMGQj4JSF2ODZ1tBU1lqZoLbroI1gtX2v3fVOTM-7fpGmxP9C-MrG_Zdte9zqmLjpa5IZiOY5NSoC3xRtZsgIEnyGbjljbOaGhALpd9Wzcopvngr-2Avrh22rfuylYLYVVrHM5oAspPVUa-1iLHoNwsBV_oS_zpwA8v76XZaDLvopgYaWg0xLyySbiDntpkhZHcV5xvhUzxYb1BB7nkYFJ4AnHWS9jnD2eXsqzJA6E-r-o0MoWVsjZG5uQWGbiI8y20hGzzU_p_RuLOo_GAoTN7Hu1kqBm-t7elmtiOYYF-oBgveZTxijEwRExZbqAJFpyFmP6kD_BIXV40bAgqfhbeMSPXf4aa_AZyQIyPL6Mi_K79VCh3YZezpIGuam7scgY9ucGuLZzt8eEYoXpFMm4bcx64FCO4_az9kBdV7idbrbMHDpkuxKw_vmEtcugY9v4CbZEPPC3if0zGx-A9Q
+https://s3.thegamehd.top/auth/81.m3u8?token=WKNL8DAL3tJlKiPI66bHdOdTgTsFEyi8v53VZMJwXtQ2hqd8iieVmjVAo6YkWvZPD5jBvcPMqnsZjQE4XJi_W9CijtdcHv6lmzamP3ZbBWNYHDXDH69wM-g_pQmc9QR2kKX91ozBRV2PjIebHDvVrHalXizr9aqqOcrAuzLvnuuASrx-po54mGgrWCiV2wcKxZWmYE_nZEHVBEE_LoJAFzQCcw6kHX4JD3uoPaUQg12uwaHwIXjsByRyw7fRl50g3DQa3eAvvd86_NaAQXnnp3zDF1GqpZR0syeBs6fU3r9xh1EVk_7t4vsj5tGZvFkvHyq5l7-3U817SsBveUPWGfAkb-8IztfcUQeYeA9D-WASi7wa4fXjEV7jKxyDCViPX0MEqZxyinp8hGMY-kV3CwBbcPd0X5CSPabT5UDBJSjvOotledOwMncybRNcv9VGJm2I-9hr59OM9qiGjEji-6dxFBurq_H0MzXVcMfMgYTaeqhfuhiIWqIwQtu2rtwb-KWO05_Q2cTLcIxp6O4bNyhiG0WPJAjgdGQ6Lc3R_myyyQHwhyPVtz8urPMhcBweSA9kCHg3YCvAa5I5uqxzptkLlt8elgxUjMmX3b-KRCdwCXJ5AEefFBprFKAHGqHC
