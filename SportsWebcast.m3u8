@@ -1,31 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blackhawks @ Wild" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Minnesota-Wild.svg" group-title="NHLWebcast - Live Games",Blackhawks @ Wild
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=xfqz_ZBpjqfPiNbG8usFLaSY9Uyk3oeG911ZE7SyiiE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe%2F&expires=1789349043/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe/105.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canucks @ Kraken" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/10/Seattle-Kraken-logo-.png" group-title="NHLWebcast - Live Games",Canucks @ Kraken
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=xCDYNZgsTsrm5fdMDxg7O8Xd3lZz62n9-E8lkix-YcA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHmcwn4fVgl1ad2DyVMp0Lv%2F&expires=1789349047/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHmcwn4fVgl1ad2DyVMp0Lv/97.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Jets @ Oilers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Edmonton-Oilers.svg" group-title="NHLWebcast - Live Games",Jets @ Oilers
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=wi8fM78ef_ASkM04bDlg_yXoDQBFQ3VJzS_82uQUPfk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1789349041/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Knights @ Kings" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Los-Angeles-Kings.svg" group-title="NHLWebcast - Live Games",Knights @ Kings
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=-d0C8hnTYAORUHw9YMdRCpLK8eHuEjPK--QVHH8irqY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH9C1B1LYdxZv3QPXKN9R0E%2F&expires=1789349045/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH9C1B1LYdxZv3QPXKN9R0E/85.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Leafs @ Canadiens" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Montréal-Canadiens.svg" group-title="NHLWebcast - Live Games",Leafs @ Canadiens
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=vYV_ase8hCJJfSalhiz2jWmBxnq3GhSrfwfG7Bq_Ut0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1789349035/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stars @ Blues" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/St.-Louis-Blues.svg" group-title="NHLWebcast - Live Games",Stars @ Blues
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=ah-5UnGXn5qYvs94TPk4SafvLJnQCU3fwDDmyTQcMcA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGCsOP6ujenwnu5jEpfSbN0%2F&expires=1789349038/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGCsOP6ujenwnu5jEpfSbN0/86.m3u8
+https://s5.thegamehd.top/auth/87.m3u8?token=jDGh27mo3TwgSbGVh5Z1_M1-be0U0dAtHAG4uMuMdwuJIu-kt2d_Wmztsr8TGMJU6uOlVhs0hvoNNl3f5_csxo1Vg6JKLpH8Kan5Qqchrj_Gu3MI9jR3wX88iJgE5B86p4DYSOoTPOo3PN46kCnYng822vtQfxSOhGwKstNR3JnhhRr_n7d5hbfQjhjlODxnavtUgh-AyHHW2EGkvBOnNMZsGO2HrBvWgvZ0qDhlogoeEMiIoLzFMV0nA4TvL5CW18dsFnmVSEUnt3FJs6fWmdQg6tEMUZenIFwjFAEkNDP8ZrqHPrKUFYZoDhA8x0a9Pu1XwWVOz3HIZJco_V0J58MY1ksETcJ5oPttju66H4zD0SRMUUjTqRTJRu5YDzzqF9Q-J0DIA0nnztKVrJBZ1Kf6791Cgfa3WtIeUJpTvtcPMOy69S-4LWCkt_kR0z5oRaWsB7axHyof_emZmRspDFP05KNKfGqvpNstBzF-Jljj_oq14zxgZhJCxolpxYpQL3P2Mh7x6sPOZ0KWcd0d8o7L2hCkEGJhCIJ90ZA0JY3PsFixHo623Jkc3p1ftzqUWjkcF-hs1CeMEUoii4D6qSjTbje1k_59_z-frk5WBrUNwHMBGQCMiMwkb75jeqIx
