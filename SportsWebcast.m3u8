@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Phillies @ Braves" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Atlanta-Braves.svg" group-title="MLBWebcast - Live Games",Phillies @ Braves
-#EXTVLCOPT:http-origin=https://mlbwebcast.com/
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Panthers @ Sharks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/San-Jose-Sharks.svg" group-title="NHLWebcast - Live Games",Panthers @ Sharks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/129.m3u8?token=dIJ0IvynGzCBLT-huAqhST95ECz3I143xahqaM4J_xuPxVEljqUebP4tZpo2M9Lxvibghw7NmzYZcTs-8yct5QyvfrfBR_uii6OX3zoO0_gB_64rtonm0YeFDGtGWj8WMtNmJbkfu29t_E5A82TU_CyNvCvdLhd4zkdHS1ACirwTJSDswWwZCOz0hD-m00520AsC2FReAS72qXN5bUIeWwb1tmjchgWrycdLDDuDLEzN5Ns36nbbe5xlxPj-Q7RX_jhlONy_i4BxwB8fEfVUELH3564bTe-g_QWjw8kFHDv4riVOrfSIE2TXKdNPuI1KM-x6F5pxy9nla8UZtA-x5Y0c5s4zajTVZpHtcO-dIcEJcD9pt5gBL8fyMqEjBjgDsdu9uBW0l0c8--AUlyswBsyc64puVnIokoEVjbiXK9gOgMOPpXTlg2VTBjuBRzDGZh5JVF77ok5r0KLew9cnwN-sW4T--evaIGbZruSjCmpecyM-AZXRt09wc4UTxc9Qp8h64pR3oCcS6DkSGz_Z2-pXNgRLFXFUOrC0aj095Keyz5TAv8UytOlm7BynzBoe3_qAPU6H97QGKVlTCpTsLlK9OVwvRVaUEMrORmIdITlJaJeSS4ZqqWlH9idxOjL6ldJvqUkMZ14XdHbnjEXKUg
+https://s5.thegamehd.top/auth/103.m3u8?token=Y3xNTjSu4l5aQpu8KRIgukbG5HcnL3XLDmkSDS2ShAOtbYn6nTAqrYfNc028D2ro0uJ0U8tXOtVntxCmFQt0D4LDtZZJ894fLXLmXhDwdW5rd7dsGHGpIZm5FbRXAQk8B8GlxAhZbR_62O1NLb4TBwoseyu5whgrVROs8Yh4C7LjmvK7Fknbiv1Fc1wrVS1rgq9ehR83Wm0z0-i3HrM6bp8-jCWs5zb0ynhIjQewoLU8xbIQ2uznwkHuNGz50IeGOp1vMC5yXOp7iQGPAL0PTmIcESQIG5t-VCluJGcSByEdNgY5lMpBqwtajgtWsZ94A8Q2VhiCaraZXTYNXGD1XJc6jDhs6ZxINygkc_BmIUfOgUoXRc3oO6LLaVS1yXP69dX2tr9xhTQWP_u_7asagBqMxa4gS1OmApfKSvfre6n4Hs9vQTxIwOqq9Ldmml2ZcyWUmrCWSOVDujVmK5PKtLnxz7GjrYjXiUf0kewleHLXAU75ggIXdfCrnwjrAFH3WPIyJKfm5qywWYmzuJu75_zv6ghk_o6LpHHtDCuNz9aeH8q1VQJS7zCi47Urvrzbx4lW0KGifiyVs3kHJPlXcrxHSa7yl98bSILrR0uOJzf5RusO6Ollik4l6-vv0K2d
