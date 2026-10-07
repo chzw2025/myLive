@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flyers @ Lightning" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Tampa-Bay-Lightning.svg" group-title="NHLWebcast - Live Games",Flyers @ Lightning
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buccaneers @ Cowboys" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Dallas-Cowboys.svg" group-title="NFLWebcast - Live Games",Buccaneers @ Cowboys
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s5.thegamehd.top/auth/171.m3u8?token=Sp-bN1pBSTisJBLsM-P9_mziPUUfIUl9QgneAt2nE3P_WTqrjgvMUX3vY_z7NK4_RD155QxfLsIzlpN1qKio4tTgm3Hhn1eRKY0QslJCz29_cHPh9_e9pZ0DVAsyjJxukz8foXc6X3MzLHQxa7NzchR7YCYlibtbMcJFFiv2_R34c6HVpni8NXEiw0zxQQHrhnDBbuJkYA9QkLTKxBGNQW03-P3U9tTT5T-1ODWMaRmOY9klcnRo3PmLBSMzjJfVWzLc0GYhYQ7GOSziTeWRnZ0ElTy1WKhMrhGE9Cp58_rbe9v5vHk-Lj92nReCAgP7Nq2J8a18b0QDuuT-mJ1_Onc2UkmMVGB0otxDpFKKuyaZ4q33QUsQBdJwVdWFI9owdfP8neMwqO5OIqQ3JvbBuDmjI-KY7fHOToGfZXTPd9-bt8RycwcFgSWLgoCVGidsT5Z-w6mZIAe9m8wC5xryxzCOsTcRO6PlwdtzqbR7PSxZ0rozATdX_lFyyUk85_db9CKbCWwpLXteW-lP4bBNCWi4mm6d3Wzu8usAYQvZ-9qqryxfSlm-88LSPU7eZtrCBp5h2U_LHHjT2Kylas1e9-322z6sgYJAnGwlYwOZrcjOO4bSlphhdxBRW-1B9wDqRmJswaNer_I-SKw-jUFTsg
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sharks @ Stars" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Dallas-Stars.svg" group-title="NHLWebcast - Live Games",Sharks @ Stars
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s5.thegamehd.top/auth/104.m3u8?token=WfTz4ZVwZWcAPwkkMBquWXJonqrRMVvEh4GtCfis6Iv-BQzpvyhhuEVe33Hyn1k_qeIgMUuZdsSikl5PYSo3PFC-e8uUhFwg0ytC4rIS_1IOTFEojLfncUxTTcmmbynQxrHYXZM0gTerQPIsvdbj13A9RQVW5Vc5xMlCB0I1Yitm5Y4uYfynAm_QaIoA05SeSqLtu3s0GqaHyrJZjHK1pPAog4xsWW0vkBtxkwfqahIhjmJ8PkSTGzbRolky0j3mt5uoRuuFmFprw7wumq_kMUt9xqKPIFet0sGIB8gMvCpjzPcp_tcZCAZXIb4eI6KdEEQzAwrC3x0jh0molH5O1yMQt5ouM99LSQvgzwTyUlMixh3lPXs964oBVSpFl8Rc01JYMJue0xSAukoxbGqB0pL-FO8BTwEOMY0oLL5q9bJxVcG_2APJoDShd_SnyzFmkXYrlGkgYmZJAcj1NRpJr3wD3QWcFFvfMBna5pCOVsflLPRxOnxWcUVN2Jksc9q9Bh-BtJft5DJMcV5ASrRDa05RYrT1nh9SWTHKYbWpga5xafSlXadNCzN7iYRibhPgphPwEmUZVEP1qAp3J_fbkwJjLID8KeIEUqZZrI3kmsoxD9MvWtEwBjfLAwGxPvHOhh-XeoZ2E1cPzI2xETHLmA
+https://webcast-origin.b-cdn.net/bcdn_token=37DZhnvM1cMbB1Zq6QWhoMv1Qk1bGz-bwH7Q4YiWahQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFhtfVg4zkFGANf82aAwiwQ%2F&expires=1791361924/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFhtfVg4zkFGANf82aAwiwQ/61.m3u8
