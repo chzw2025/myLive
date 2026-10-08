@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buccaneers @ Cowboys" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Dallas-Cowboys.svg" group-title="NFLWebcast - Live Games",Buccaneers @ Cowboys
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Avalanche @ Jets" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Winnipeg-Jets.svg" group-title="NHLWebcast - Live Games",Avalanche @ Jets
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=37DZhnvM1cMbB1Zq6QWhoMv1Qk1bGz-bwH7Q4YiWahQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFhtfVg4zkFGANf82aAwiwQ%2F&expires=1791361924/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFhtfVg4zkFGANf82aAwiwQ/61.m3u8
+https://s5.thegamehd.top/auth/94.m3u8?token=8ClG7fLrOEN5P_oprpDPQr1Pvqx_HFklZbLSFlVUIcsmJAXE01Rpa1yEFnrvazbS68e9uCTTCEHbpGwR2x6lzNFo_cgiBwdUf8HfAipnqthj_DqS6kILYcHnmBXHnre_i8q4d0bEZiLCI8ZG_z9ox_3gdLIH0H8pE1Vn5WOVA8x2A3eGzojzxzoPyE92LmX0v4oFOQsV0bCoDzmgyMBh-4tf-NCpGdEbj0Rz64Qy0RCO70gJbKdqJ7uqCTB6XGYKa0r6YPZetMjYwlP4irGYUrVuIpqCyoAz1edWkxJtc0YeR_wUH3deNqO-8SnJ6plouTzbdIEJDEZI-02nYuPGCRhPzVWkaPBP6D1Nf83Gh0y9DEMQ6j9BKg84zmICmV2FHxbrytX1eAzXbJ_t4musBvFAGT-YthzAqzkgYvgagdM-cFRUjcG68k6VhWx8oCGWf5KAXgdBP4j2raunVIkfOTDIZvy_liyiI5An0VhQ1fHXTNKByVwlICmPJJ4amRXX0ozuTFrF20Ujv9FqoAqUYru5LnCDvOHITZjNBkHg9k1B9MODq8MFGBenkjKlJfPlo1S0n0V3K1K7K3r9vLlI5GRbsPu_tMvxF4nOJs2-xors4mVd-nYnh6k2UXg0BmyT
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Oilers @ Ducks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Anaheim-Ducks.svg" group-title="NHLWebcast - Live Games",Oilers @ Ducks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s5.thegamehd.top/auth/90.m3u8?token=HUN8WvW5wVqmejqh0kFyp3obq0ZnS3AzcyXl-pHUGzoGgZRpNFOk6jsEF7tRPmaS6xxVWqpRBeSR-JlIevCOeKFrGVn1iTGN2AznuPZfvKKZyhfZJTaDBfnUJGiJerqgHMv0olH5fw305hgG_IscqO-qSEgTj1qJ4C8nt2DLmB3RxdQpYUkmnoijBhJ-3JM-qFGdmnvSkDH8IGcmq3dgOIrmtyYjE0Wa1IFGJRa0_o7A1uwnvOr5HDzyGxsTRMFDXR6H7lzjqPw3TIk1AE7ZOhH0p6c5lZDugLSDjauXlkfVjbXD67sWZ4f_BrlMGWL-hNEf55VBz4j9WC8KVGVAfERV4B5koBp5vV-8rXsBG7wSFDMFerdJNY7HGnYjHcwB7LEZ1FrO71MjnZToQu1uonaFbqj7_YbBke-4zxWqg6EwtXK_KFe14nvUlzUMqDMlFekHiRvINBC8PEWYyh-4LXWjp3mH6_ZPUCpaIHlP3FUzueE0p5F5umfPGPdhLJzrPq7rLCwbjUw2evgkyjlu8YujiiTdCzwETdUqYAIQxeOhLr3fSOIJRpqPA8DnAZv-wjaJjkqghnuBFMsQIKgUQmRsQYXONx6VUg1juhO98vn_PPcxxCAd_fFaayEDw-Ll
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Penguins @ Capitals" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Washington-Capitals.svg" group-title="NHLWebcast - Live Games",Penguins @ Capitals
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s5.thegamehd.top/auth/169.m3u8?token=dbh0InUuBUYcGywPUZM4ClSAIqLGk3qBemhzLWIiOuryOxxhw5G8xh9o-kTok4kEFasoePfRSxejIZE-E1Xxrn9ZkVFz4pEYOJ7ZtHQ5avcCHCzDa6IcSgcr362KVkxU_BtSabMj0iKJzKmqNkW3u5ekeeEvsGZ-2bDxUgiUNGg5cMAqPlgNBWbbfzeELcJSVl5vs5F_Pt-1ROa_pXEdEhGHtAOzH_6Bd_iTmSYqfFLT-e4RjwEm_AETwfKQUudMu_BKvj58GgnG_MX67W2VTTBlX61t2UsZ_5oZjH60emxm0bSsf_a-yekCMJleSxC8RcVHOu_TR5Kzd0Jc-LyeStsqPRkjzvQWP7ZrVyAH3K8Szo-UkyxJtgxL79ZQiouuXbJyOQC2Fc6d2MkMoFs1IoFwLDnD7j7Eh6uZnlK9yb84-N37Ux4IoHA1TcV_wgdnUHDvm8S81mNNiqbkXTebNOMXfGVUJ7z5tITAQ_NSdc8RuPliTTEgkS2hO-QnXtmfiQXWGzSSXa_rQjE5TmIoh1aPDmpDUCyjpq826WwXRhq_6wyF-z2zBYcqR2L8AHtdooxxOV2_lV9t5ol4Nzc-tFLh2OL4YfZQNb7nVaO25_cgALZNUtXm3YHLWY0CmhVavdcZYAGZ0TX_FvduOjIqtg
