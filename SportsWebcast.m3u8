@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stars @ Avalanche" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Colorado-Avalanche.svg" group-title="NHLWebcast - Live Games",Stars @ Avalanche
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seahawks @ Broncos" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Denver-Broncos.svg" group-title="NFLWebcast - Live Games",Seahawks @ Broncos
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s5.thegamehd.top/auth/84.m3u8?token=zdmRHfb9LmzZie1p3NJrFRb9ZjiGFaqozXiJicPqkv4BhdnMFQI-Q5xREXQKzRPXecOT2m4yav31lN_by5OMTSoGfbw_9_sB_3_kcz0ukTNt8O17YMvrJj0bp5y4IhirDVrUX_gLYRucZw2AbILMiA-1H5JNZEdutkAniv63NEGaS96hm3_Cxb1Q6MiqCRhoDTKvAi9o_rI4J1bQLLAIR221RJ7Rqvb7LYTCS9DFO2jqMt76Bpmt12zv4UZhdFPto5PPcNGjwn-apDICGDOXlJ6Zw_Cw27xyhSqO-FCpd7mQWSUALbbPawTch9bQUveEU0A_CsvNx3HPzk5vMD1HlTiP6cLYkOjIo8ZHCkIaPf1I-XffXv0ppz-bop1dSJG_Qi1ak_fuVOtCTnY3zPNA6C8eAJOeOxrK6a3rHD3XK9eyc1UY4mXC0q4A9zn7j97WHu3i_xShLGUG7EX5vh-b-Fgy3JmlA12pa3di30oXsL3IQlx0yX4sU1CeHrCdJN_g3_K7IzwqBATekosY9H7wygOtGUCbAB4l4jZPbkoiUjMGjo6RFyt6nTteXmjVuWnOrq94pwWSiwcYFhRyLPFj01ks57J1yXjF7gxiDeYLS2Q
+https://webcast-origin.b-cdn.net/bcdn_token=G-BQEL7y_adIOltwjXaqmy-xrto4qQXbn4KsoMkFZG8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf%2F&expires=1792102153/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf/54.m3u8
