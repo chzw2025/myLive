@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seahawks @ Broncos" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Denver-Broncos.svg" group-title="NFLWebcast - Live Games",Seahawks @ Broncos
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Bruins @ Ducks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Anaheim-Ducks.svg" group-title="NHLWebcast - Live Games",Bruins @ Ducks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=G-BQEL7y_adIOltwjXaqmy-xrto4qQXbn4KsoMkFZG8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf%2F&expires=1792102153/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf/54.m3u8
+https://s5.thegamehd.top/auth/90.m3u8?token=HUN8WvW5wVqmejqh0kFyp3obq0ZnS3AzcyXl-pHUGzoGgZRpNFOk6jsEF7tRPmaS6xxVWqpRBeSR-JlIevCOeKFrGVn1iTGN2AznuPZfvKKZyhfZJTaDBfnUJGiJerqg2RiKzLAGJhQfJSpUMT_vrIsSzRg6vl-DkLkfq6LVaAhYBa0wX1JHagjBtsNLpbvS5xsxBwGRuekHWlRNi_5ykD6mjug1_Qj_UYVDv8KolwyYNS-M1Zi9EL2bQo05Kn1W7VosbzZIzhcGI7MOHGb9ybTX0nkfXhI9jeYSG8sZ-XW4JUDI0IwPdL6xwBEmEsiAYPBUOpEk4cUyeBgaHHfvhWvYo3NA6ZO2GES8MwAOw26GmkR-fYkOWbSKfCjgcQ0P6XKugnCWVtC646SQuLEzLLFOSQywJaKalZiScHqiFIbwhQAfRG_u7iOO3ubjyiXBd33E3gUMyh83tCa9UG4b6wejc8_qn5GsZBKChf_Ob8XyRvtMSz8uacxOxTGCXwlwUOTqa0Qf4Z_crYnczZCMVjfjatvNGQ3AzwJO5ut0j2-AMlKBqGUGSOr5k0mAhsQvdRzb5PVcbftvow46YYPOq6LnowZ-rPigb8-jrHoUjVc
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Penguins @ Avalanche" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Colorado-Avalanche.svg" group-title="NHLWebcast - Live Games",Penguins @ Avalanche
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s5.thegamehd.top/auth/84.m3u8?token=zdmRHfb9LmzZie1p3NJrFRb9ZjiGFaqozXiJicPqkv4BhdnMFQI-Q5xREXQKzRPXecOT2m4yav31lN_by5OMTSoGfbw_9_sB_3_kcz0ukTNt8O17YMvrJj0bp5y4IhirDkIn09thV2w7uebw65ObR4E9awsLxirMmMjeyQoSsdGdEwJzbL8dcCVYpDbUNbB2n7NeyVIdABK5Kj8FneSxZ6p_YuNd9dngZy9G1uTxXtpYUiT4_gR8sJZC7KCxGaHFfJNNFtX3HYhnH06msQtJlS9TBnds3KJHFcxzhw6Sk3SJS-qL1-aKpxyjl6u-EaKIZAlFRchAm32ENm-YernChNtaxMmTqmcPa6HNBUUfwzQrfX81Ir2-R4o-8sRIJyJtn4BFYMvf7t1VdJ2j9FAsBf9sSEwcQKwnIVQxu4PlBOSh6-a8-GkCryOy2NYmyfPuu4LXItonOpyqJZ0738Ee_08CDadWcADfvmEYOwFREmkXlM5t1LOdh4epFN8HEoLiAeiWaZWPrIy4C3blFW-gHcAPrrXhPmPuIWUtNiMQnRWw5KgGG3WQ7CQ8iLEL0PVdyNYjVA4IATjETpTAekz3ktbAjFSDhCCVQJaU7xJqLU8
