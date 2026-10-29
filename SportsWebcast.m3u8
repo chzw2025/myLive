@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Islanders @ Predators" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Nashville-Predators.svg" group-title="NHLWebcast - Live Games",Islanders @ Predators
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flames @ Oilers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Edmonton-Oilers.svg" group-title="NHLWebcast - Live Games",Flames @ Oilers
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=irwTprTmdnvtlg4OcRpskfhn4AYfsf9Uk0el4ie8kD0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFtMlYpavA0muSbpgPpgk89%2F&expires=1793135683/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFtMlYpavA0muSbpgPpgk89/100.m3u8
+https://s6.thegamehd.top/auth/98.m3u8?token=yDFGDK5sZBEK4AapWOc81aaSPHS03jDPaeysPd6tzgwIgFECIQpf3rraWUrkzlgcFxu2tmxrlVLH8bGAC57WcZPurDB4mtDwCJEGMVmjs8-Mv5TsKczAdcxFSdWV3iWermBimBQALHbiBZQVYtW9BzmR2YO_stGPKCAtX1qJA6zImhtGEgvOmCJ5tj8oJ0liekQGculWBfmwDB8hejd0w2hrAa32ptKcM7Gpol7YqvcS1cnzK0jYpk2N1jtJWv-XT-QIyoFyJk7nKN8tHNKClcWj-kib7RW-r3kH265TiTV_yWM3KrlfItECJFaIWGvUMQvrbB4w7PMUXDuQkbwZGvGR-qlxp29bnHJB7RhJtAXy78P2UQOKte8iSWleKzoGEdnzPsGvvm_2OUgd9hfiBR0VR7ca5FervUN7UG30O7XOHaVK_rpgbU9g3GIJbnba2OUtHzTStd37UIRrTJH7Vy4cAX38rdaMbCN8Cfxchkbqt79eaYT8nXZRnbdCPQD3XbgphFdwkftCr82YQzLqoredOiW4JwT-NYKKKv-2c45DZnkcyA8zhZIB4KPVrWCGZVhJNIinJp1oFCAXHjF2lYhnDEll0nhcUIRCr55YMJfkTWYVqxjk1BK15qU2Ry1H
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flyers @ Capitals" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Washington-Capitals.svg" group-title="NHLWebcast - Live Games",Flyers @ Capitals
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s5.thegamehd.top/auth/169.m3u8?token=dbh0InUuBUYcGywPUZM4ClSAIqLGk3qBemhzLWIiOuryOxxhw5G8xh9o-kTok4kEFasoePfRSxejIZE-E1Xxrn9ZkVFz4pEYOJ7ZtHQ5avcCHCzDa6IcSgcr362KVkxUKfe5vNWqPCwu0GkUki73PXXEEuAIIUX3_xLsf9YCZKPVxX_sFC8XPBiXco9POBnqBp97p6kMmYaZF9gbnMLNPwtrahDaQnI4zBeeJ8Di3922dkvprcCA797U_Okal6MJnvs6bcFQj7aDcCUvy1yupQ2bCv3yvgd4wnMZ1OaCnVgrSFJ2vb0GDxqPoplm-0y1M8yNYPpB-F_8F08qPngk3hBKaMzfWK1gxtmwLxG3UErixkHN8O9qSxjYayWHQ5HZEkJ0wMTBDGOh1TFRdEfWuScpYJDpXOkx7SDhcXZj_DMr8ym2Z-aAHP12kWTbuXslZwKDHs2VNMMlIoCRZVvxv3pitc4MHOjl10XS6HzU9GYK-hugKCw19Wvy9X1lj9nYG8KsaSR5y4dpVV4n5lrCERguVX6DZ2Fl29LV9EM5Xchcsu5oNYN-HugjAjbQKC9QrZwzTjOpHGqvbLH1ttRiukHWXx51gbGE6Pc00QsGBHpFbVVtJPTKVAfUUKIYr5JD
