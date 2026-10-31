@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chargers @ Rams" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Los-Angeles-Rams.svg" group-title="NFLWebcast - Live Games",Chargers @ Rams
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blackhawks @ Bruins" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Boston-Bruins.svg" group-title="NHLWebcast - Live Games",Blackhawks @ Bruins
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=WK5eurqykLdOVhPXJ6sDJol767NQHjM4TbVDxkIqhwQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE%2F&expires=1793448475/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE/177.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Colts @ Jaguars" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Jacksonville-Jaguars.svg" group-title="NFLWebcast - Live Games",Colts @ Jaguars
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+https://s6.thegamehd.top/auth/168.m3u8?token=ZK2J3J42b9Mur4ql51sEZNBM-JGlNu56CqsgdkOYgzuUauhrI-mHeLt27fq8ofhZnKoNKS_d1anxyTEZJ4Pyl_G3lktuwKL6DlBRrAjtoudTJyJGOGynh2EJgyrfjWwVg27EQXVPSgYZIS9cB5ZMklnxYnTmpPBGi_evFfTj9M6wKXifw14ksi2uU4n7AbmQJrhFwjTx06mx4FE727RREFyc9eB9sQGZrIiVs6wgwsXk-KS8DNz8kvaXZkueQ2-6EGhf07fZOPui1r3m1grQPolT95AsHsgHzT3VeTcfhCCgmtd3DTNNE5M8mDQAgrhMwCY3FsQJl_h2jCbPXPVpplRXxtiY6DkH0Yv73-CG6Axr3dVpQZB3kSKwR0-348L6YFNi3JLzAdwzbmibPiouvliswF2vLOYLG9MywQ3wS1qRNqM_7HrMLPnCo5c35ezxPpltKUeV6xv6m2eNIYrZZ6HWrJyDdvpvAtTJH-Gf_b-mWjb5DO19DoNmSWhFYAUaHXgaoh4gHWGo3vAlwB-Cv1do0Lc0RT2tUoT4uQtHe1viBORhIn4Y0tWrPRT3bjU_VzeJQ9cYo8s0czCz7_FdTCaYe2JsUncCPQuloQTqYFDAtGBI0WZB-y0EAp1r-elUXw_zxQVRrUNT3dR2QYeVkQ
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blues @ Wings" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Detroit-Red-Wings.svg" group-title="NHLWebcast - Live Games",Blues @ Wings
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-origin.b-cdn.net/bcdn_token=XRVTiX3wRzHnpvCbAjJOAo4Qs3Mg_N4dtBIFbpftqos&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH78SxmvhIoNvW3tRxtKbTs%2F&expires=1793448427/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH78SxmvhIoNvW3tRxtKbTs/66.m3u8
+https://s5.thegamehd.top/auth/178.m3u8?token=X_tIaNsSo3cPUTDtRXPWt4ULlsK4oC6TWTQOz7-k9kiNZqtt5CnR9e_EbOGkAesZcZJY-xGlX8gIGq64VetbNoz6vUtjJ3Csein2reimMYdQsOMqj6kYGckzQgwFwx1uPvuo-lkrdq_UuPm6byQtSRE_WmGjz19ERgRFpgvDK4pvW3q_cvN7UHxSUWiYZu5_GM2KipikdStAnjPD2JbfKUU_N3z2kR2rzw3wxxDCT5pBokx4UB5KuijTbsjNwxQtYltmrOVTiojFcxvB_Vbeap1FllrQzhEwfqCyBNGmL_JsrYuobqb-IF8JQgg79z96EcVdPjbMotkE3jFibXbiHDHI1AYFsBUGcMW3gnn5B3yApFyUbMt_uBh5_qZmVdpwVkl2PcmpfB1e7cQus3cj9ypuUJpl8yPySxlUv-e-jEcdpB2iA69B_Bs18whl6YcrHlZA0y5EW3d_tSX82HWGvoHg2MidQXD-H9YsCNHZrM-C-Y9uwp1g7YG5R0iVUUBevJb4PVASH91DCtGzihISDbRehcKdw6U5_YNvg-1NJ167rFasJxHKlobs--4m-EYTy3Yw5bJZe2JcP6LYsplWq8g9coWMKHr8L_qNiV4EiGhwBDT_oVPrsBQ6xBVE1e-Oc-HP_4QzHKPCIGRD9Romxw
