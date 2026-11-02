@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Oilers @ Rangers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-York-Rangers.svg" group-title="NHLWebcast - Live Games",Oilers @ Rangers
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Bears @ Seahawks" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Seattle-Seahawks.svg" group-title="NFLWebcast - Live Games",Bears @ Seahawks
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/175.m3u8?token=7gI8LxauZGlNfWTu6sTWn2LO6oZYvT8lxdzR0I5QMjRDYDE4erKfCwK7AHK3ik3j0QOaGNJCecWaYDTv5iHYfjw86j6lsJoYByx3VMBTq7fVKfAg3OwgBnIJGb-ZhzrxQ7jRgCCt1Egz1GnOzh9S7TA42n3RHoUbfgQl1flGGO-Itr8pYBqST_-ZJmJqYssKWrMzDzTjSskcEiOFCyCsbuKnJLfxgjHfhxZSFPTDv3JOitzht4s39vkPlukJTjEaRm6zuy1PBTMh6bMeIuROfW7D7TV-22l25-McH0kXMu47PKrr8LK6WPgsC0fxdKcs6y_Jiher_wCjH-EgjotP_zOeviOGAWo9RqZU4OW80M34obsvWAxwK8HA9067h4w4x5vqojN55tihUfKG_ZEFh9LafoyXdjzYKLQI5YXMvkwWrf4_zp7PwoG3UKI2ierH49zrgHMfA90KHOVE5aoWb9mS6ypibtmBHbIaDPyJbaxESJKkgbio5xLs60kJhG6j3F-BPLfl6nHBfhGVS-sT2Jz77Rx_doOMiFUdCmzjpz8Lh5AbYZtQpIATraoj1cdUUM57AYbrc8wtvTJSb0A8wiIR-znNb82Qvz-5ebegzbfXad6HRLkxewToKlPRX6YS
+https://webcast-origin.b-cdn.net/bcdn_token=dtNuW-XI5i4-IygoqacKuwMV9ym5-UZiWGNyFxuvekM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFolP7eA9_VD-4bwC-VhQjq%2F&expires=1793633253/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFolP7eA9_VD-4bwC-VhQjq/235.m3u8
